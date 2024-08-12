@@ -1,16 +1,11 @@
-# habit_tracker_app
+# Minimal Habit Tracker
 
-A new Flutter project.
+## Description
+Transform your daily routine with our habit tracker app, built using Flutter for a smooth, intuitive experience. Our app leverages the power of the database provider and SharedPreferences to securely store and manage your habit data, ensuring that your progress is always up-to-date and easily accessible. Track your goals, set reminders, and visualize your achievements with user-friendly charts and notifications. Whether you're building new habits or reinforcing old ones, our app provides the tools you need to stay motivated and organized. Start your journey towards a more productive lifestyle today with our robust and reliable habit tracker!
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/ca0c567a-c978-4864-8ef1-ca0290c4dd58" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/e24a3a36-465b-4119-b5c1-f92036f29520" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/45c29308-8b77-4aa1-ab74-a1dd4cae6dbe" height=65% width=22%>
 
-This project is a starting point for a Flutter application.
+<a href="https://github.com/sanjuafre123/habit_tracker_app/tree/master/lib"> Click here for the source code </a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
