@@ -7,5 +7,6 @@ Transform your daily routine with our habit tracker app, built using Flutter for
 <img src="https://github.com/user-attachments/assets/e24a3a36-465b-4119-b5c1-f92036f29520" height=65% width=22%>
 <img src="https://github.com/user-attachments/assets/45c29308-8b77-4aa1-ab74-a1dd4cae6dbe" height=65% width=22%>
 
-<a href="https://github.com/sanjuafre123/habit_tracker_app/tree/master/lib"> Click here for the source code </a>
+https://github.com/user-attachments/assets/4c055ddb-d91f-466f-923a-9eb1714ba70e
 
+<a href="https://github.com/sanjuafre123/habit_tracker_app/tree/master/lib"> Click here for the source code </a>
